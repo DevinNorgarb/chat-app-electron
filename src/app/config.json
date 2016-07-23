@@ -1,9 +1,9 @@
 {
     "firebase": {
-    "apiKey": "AIzaSyAQ4PFuzJcLLQJHqXY_-XxDjEmUmYAXDXs",
-    "authDomain": "chat-app-fe291.firebaseapp.com",
-    "databaseURL": "https://chat-app-fe291.firebaseio.com",
-    "storageBucket": "chat-app-fe291.appspot.com"
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "storageBucket": ""
        
     }
 }
